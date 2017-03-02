@@ -1,0 +1,2 @@
+# BaiduMapDemo
+下载完工程记得要下载libbaiduNaviSDK.a导入到项目中
